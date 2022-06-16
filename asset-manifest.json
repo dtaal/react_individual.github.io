@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dtaal/react_individual.github.io.git/static/css/main.419efcd8.css",
-    "main.js": "/dtaal/react_individual.github.io.git/static/js/main.06564283.js",
+    "main.css": "/dtaal/react_individual.github.io.git/static/css/main.91065cc5.css",
+    "main.js": "/dtaal/react_individual.github.io.git/static/js/main.a20f3a69.js",
     "static/media/img-pantalla-inicial.svg": "/dtaal/react_individual.github.io.git/static/media/img-pantalla-inicial.6b0ef458e889ec7cb20c.svg",
     "static/media/imgcalendario.svg": "/dtaal/react_individual.github.io.git/static/media/imgcalendario.b64ded4acd901e1f9f86976c17911818.svg",
     "static/media/fondo-pres.png": "/dtaal/react_individual.github.io.git/static/media/fondo-pres.9eccd365e19da8408ccb.png",
@@ -31,11 +31,11 @@
     "static/media/vector-estudios.svg": "/dtaal/react_individual.github.io.git/static/media/vector-estudios.37428f1a97c291183045d5d4697426ea.svg",
     "static/media/vectortitulo-lineasemer.svg": "/dtaal/react_individual.github.io.git/static/media/vectortitulo-lineasemer.17576bf3840e19e8ce43.svg",
     "static/media/redflag.svg": "/dtaal/react_individual.github.io.git/static/media/redflag.f4fdd61d8cc5239e1cf8.svg",
-    "main.419efcd8.css.map": "/dtaal/react_individual.github.io.git/static/css/main.419efcd8.css.map",
-    "main.06564283.js.map": "/dtaal/react_individual.github.io.git/static/js/main.06564283.js.map"
+    "main.91065cc5.css.map": "/dtaal/react_individual.github.io.git/static/css/main.91065cc5.css.map",
+    "main.a20f3a69.js.map": "/dtaal/react_individual.github.io.git/static/js/main.a20f3a69.js.map"
   },
   "entrypoints": [
-    "static/css/main.419efcd8.css",
-    "static/js/main.06564283.js"
+    "static/css/main.91065cc5.css",
+    "static/js/main.a20f3a69.js"
   ]
 }
