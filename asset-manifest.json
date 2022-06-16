@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/dtaal/react_individual.github.io.git/static/css/main.419efcd8.css",
+    "main.js": "/dtaal/react_individual.github.io.git/static/js/main.06564283.js",
+    "static/media/img-pantalla-inicial.svg": "/dtaal/react_individual.github.io.git/static/media/img-pantalla-inicial.6b0ef458e889ec7cb20c.svg",
+    "static/media/imgcalendario.svg": "/dtaal/react_individual.github.io.git/static/media/imgcalendario.b64ded4acd901e1f9f86976c17911818.svg",
+    "static/media/fondo-pres.png": "/dtaal/react_individual.github.io.git/static/media/fondo-pres.9eccd365e19da8408ccb.png",
+    "static/media/imagen.png": "/dtaal/react_individual.github.io.git/static/media/imagen.42e5d342de1223496dc2.png",
+    "static/media/img2-estudios.svg": "/dtaal/react_individual.github.io.git/static/media/img2-estudios.7fd8543b4fbf4f87caafe529f6ab0cb0.svg",
+    "static/media/1-lineasemergencia.svg": "/dtaal/react_individual.github.io.git/static/media/1-lineasemergencia.a793ac0e58352fe8fb7c434515ed9f6d.svg",
+    "static/media/img1-estudios.svg": "/dtaal/react_individual.github.io.git/static/media/img1-estudios.4f785b93fe9f5c58d49c87bf098473ef.svg",
+    "static/media/Carrera.png": "/dtaal/react_individual.github.io.git/static/media/Carrera.b447e0201e0f91435271.png",
+    "static/media/bannerestudios.svg": "/dtaal/react_individual.github.io.git/static/media/bannerestudios.ae283528cecd25556fd4efc91b30ecd7.svg",
+    "static/media/Dados.png": "/dtaal/react_individual.github.io.git/static/media/Dados.77eab607eddda5b1f2f7.png",
+    "static/media/form.svg": "/dtaal/react_individual.github.io.git/static/media/form.3d64b11711dbea3afa95.svg",
+    "static/media/3-lineasemergencia.svg": "/dtaal/react_individual.github.io.git/static/media/3-lineasemergencia.5475ef237bf7c194bcbdbad82c83a56b.svg",
+    "static/media/denunciar.svg": "/dtaal/react_individual.github.io.git/static/media/denunciar.69ab6869ac56d7d8ba787d52147de459.svg",
+    "static/media/logo-manifiesta.png": "/dtaal/react_individual.github.io.git/static/media/logo-manifiesta.004ac77367e63af41efe.png",
+    "static/media/Cerebriti.png": "/dtaal/react_individual.github.io.git/static/media/Cerebriti.2f4ded60e3b6adce6026.png",
+    "static/media/undraw_in_thought_orange.svg": "/dtaal/react_individual.github.io.git/static/media/undraw_in_thought_orange.0a6da7c28156941e39aee0371310e595.svg",
+    "static/media/logo-igualadas.png": "/dtaal/react_individual.github.io.git/static/media/logo-igualadas.4f274b9cd4f97c5334d0.png",
+    "static/media/undraw_positive_attitude_orange.svg": "/dtaal/react_individual.github.io.git/static/media/undraw_positive_attitude_orange.d9692fcacc60e300529c495e93b71656.svg",
+    "static/media/feminismo.png": "/dtaal/react_individual.github.io.git/static/media/feminismo.921035f47d1cde4ab83d.png",
+    "static/media/undraw_super_thank_you_orange.svg": "/dtaal/react_individual.github.io.git/static/media/undraw_super_thank_you_orange.8e1495364264317aeef5d9807c3c34a9.svg",
+    "static/media/tech_power.png": "/dtaal/react_individual.github.io.git/static/media/tech_power.2f4cf6c685b4d24d4833.png",
+    "static/media/logo-volcanicas.png": "/dtaal/react_individual.github.io.git/static/media/logo-volcanicas.d1aafa3de66c82010b85.png",
+    "static/media/2-lineasemergencia.svg": "/dtaal/react_individual.github.io.git/static/media/2-lineasemergencia.6b4766abe26ddcebb2457f2ef1e78de9.svg",
+    "static/media/logo-redvin.svg": "/dtaal/react_individual.github.io.git/static/media/logo-redvin.1e2e14cbb6122bb69ae19b6c937ac064.svg",
+    "index.html": "/dtaal/react_individual.github.io.git/index.html",
+    "static/media/vector-estudios2.svg": "/dtaal/react_individual.github.io.git/static/media/vector-estudios2.2b055ecfe55d19ec83da6e0756bfcdfc.svg",
+    "static/media/vector-estudios.svg": "/dtaal/react_individual.github.io.git/static/media/vector-estudios.37428f1a97c291183045d5d4697426ea.svg",
+    "static/media/vectortitulo-lineasemer.svg": "/dtaal/react_individual.github.io.git/static/media/vectortitulo-lineasemer.17576bf3840e19e8ce43.svg",
+    "static/media/redflag.svg": "/dtaal/react_individual.github.io.git/static/media/redflag.f4fdd61d8cc5239e1cf8.svg",
+    "main.419efcd8.css.map": "/dtaal/react_individual.github.io.git/static/css/main.419efcd8.css.map",
+    "main.06564283.js.map": "/dtaal/react_individual.github.io.git/static/js/main.06564283.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.419efcd8.css",
+    "static/js/main.06564283.js"
+  ]
+}
